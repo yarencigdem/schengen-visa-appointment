@@ -1,0 +1,11 @@
+{
+  "telegram": {
+    "botToken": "",
+    "chatId": "",
+    "enabled": false
+  },
+  "settings": {
+    "defaultCountry": "fra",
+    "defaultFrequency": 5
+  }
+} 
