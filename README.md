@@ -57,8 +57,8 @@ Modern web arayüzlü, gerçek zamanlı bildirim sistemine sahip Schengen vize r
 
 ### 1. Projeyi İndirin
 ```bash
-git clone https://github.com/KULLANICI_ADI/REPO_ADI.git
-cd REPO_ADI
+git clone https://github.com/CanxPrometheus/schengen-visa-appointment.git
+cd schengen-visa-appointment
 ```
 
 ### 2. Bağımlılıkları Yükleyin
