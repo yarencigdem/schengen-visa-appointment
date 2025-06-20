@@ -1,11 +1,11 @@
 {
   "telegram": {
-    "botToken": "7932390276:AAG_iboRKtweMJ3Ndpe3omxDfdNRojFyKO4",
-    "chatId": "7427026424",
-    "enabled": true
+    "botToken": "",
+    "chatId": "",
+    "enabled": false
   },
   "settings": {
     "defaultCountry": "fra",
     "defaultFrequency": 5
   }
-}
+}  burası 
